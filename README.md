@@ -1,2 +1,2 @@
 # Sven-Project
-My repo with code for the Sven project in my java class.
+My repo with code for the Sven project in my Java class.
