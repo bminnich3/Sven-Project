@@ -42,7 +42,7 @@ class Main
       System.err.println(ioe);
     }
 
-    // displaying Sven's name in ASCII Art from
+    // displaying Sven's name in ASCII Art from (** My contribution **)
     System.out.println("\n\n --------------------------------------------------------------------------------------                           ");
     System.out.println("||                                                                                    ||                             ");
     System.out.println("||       SSSSSSSS   VV              VV   EEEEEEEEEEEEEE   NNN         NNN   !!!       ||                             ");
