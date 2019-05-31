@@ -42,6 +42,21 @@ class Main
       System.err.println(ioe);
     }
 
+    // displaying Sven's name in ASCII Art from
+    System.out.println("\n\n --------------------------------------------------------------------------------------                           ");
+    System.out.println("||                                                                                    ||                             ");
+    System.out.println("||       SSSSSSSS   VV              VV   EEEEEEEEEEEEEE   NNN         NNN   !!!       ||                             ");
+    System.out.println("||      S            VV            VV    EEEEEEEEEEEEEE   NNN N       NNN   !!!       ||                             ");
+    System.out.println("||     S              VV          VV     EEE              NNN  N      NNN   !!!       ||                             ");
+    System.out.println("||     S               VV        VV      EEE              NNN   N     NNN   !!!       ||                             ");
+    System.out.println("||      SSSSSSSS        VV      VV       EEEEEEEEEE       NNN    N    NNN   !!!       ||                             ");
+    System.out.println("||              S        VV    VV        EEE              NNN     N   NNN   !!!       ||                             ");
+    System.out.println("||              S         VV  VV         EEE              NNN      N  NNN             ||                             ");
+    System.out.println("||             S           VVVV          EEEEEEEEEEEEEE   NNN       N NNN   !!!       ||                             ");
+    System.out.println("||     SSSSSSSS             VV           EEEEEEEEEEEEEE   NNN         NNN   !!!       ||                             ");
+    System.out.println("||                                                                                    ||                             ");
+    System.out.println(" --------------------------------------------------------------------------------------                               ");
+
     // setting up the screen (interface / view)
     System.out.println("\n\n\nGreetings, I am the world's first created Smart Vending Machine Unit. I am known as " + NAME + "!\n\n\n");
 
